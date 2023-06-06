@@ -1,0 +1,55 @@
+table {
+    font-family: Inter;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    /* border: 1px solid #dddddd; */
+    text-align: left;
+    padding: 8px;
+}
+
+/* tr:nth-child(even) {
+    background-color: #dddddd;
+} */
+
+.icon-column {
+    width: 10px;
+    /* border: 2px solid red; */
+    text-align: center;
+
+}
+
+.company-name-column {
+    width: 300px;
+}
+
+.active-orders-column {
+    /* border: 2px solid black; */
+    width: 50px;
+    text-align: center;
+}
+
+.amount-column {
+    text-align: center;
+    /* border: 2px solid black; */
+    width: 50px;
+}
+
+.placedon-column {
+    text-align: center;
+    width: 50px;
+    /* border: 2px solid red; */
+}
+
+.option-column {
+    text-align: center;
+    /* border: 2px solid blue; */
+    width: 50px;
+}
+
+/* .data-table {
+    margin-right: 100000px;
+} */
